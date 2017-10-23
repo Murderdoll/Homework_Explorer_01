@@ -1,6 +1,9 @@
 # Проект Explorer Баранов Артём ИУ8-33
 ## Задание I этапа:
 [![Build Status](https://travis-ci.org/Murderdoll/Homework_Explorer_01.svg?branch=master)](https://travis-ci.org/Murderdoll/Homework_Explorer_01)
+
+- [X] 1. Вычислить свою комбинацию
+
 Порядковый номер можно узнать на листе Домашние Задания в Цифровом Журнале.
 ```ShellSession
 Порядковый номер: N // 6
